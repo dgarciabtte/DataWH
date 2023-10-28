@@ -1,0 +1,7 @@
+yellow_tripdata: 5454972
+central_park_weather: 2984
+fhv_bases: 1097
+citibike_tripdata: 4780363
+fhv_tripdata: 3008649
+green_tripdata: 238718
+Total_number_of_rows_all_tables:  13486783
